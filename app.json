@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "CleanMe",
+    "description": "CleanMe - cleaning services",
+    "slug": "CleanMe",
+    "privacy": "public",
+    "sdkVersion": "22.0.0",
+    "version": "16.6.9",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/images/AppleIcon22.png",
+    "facebookScheme": "fb153073065429193",
+    "notification": {
+      "icon": "./assets/images/AppleIcon22.png",
+      "color": "#000000"
+    },
+    "loading": {
+        "icon": "./assets/images/AppleIcon22.png"
+    },
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.specknz.cleanme"
+    },
+    "android": {
+      "package": "com.cleanme.cleanme"
+    }
+  }
+}

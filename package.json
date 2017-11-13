@@ -10,8 +10,11 @@
   "dependencies": {
     "@expo/samples": "2.1.1",
     "expo": "^22.0.0",
+    "native-base": "^2.3.3",
     "react": "16.0.0-beta.5",
     "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.2.tar.gz",
+    "react-native-aes-crypto": "^1.2.0",
+    "react-native-loading-spinner-overlay": "^0.5.2",
     "react-navigation": "^1.0.0-beta.17"
   },
   "devDependencies": {

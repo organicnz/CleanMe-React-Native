@@ -5,7 +5,7 @@
     "slug": "CleanMe",
     "privacy": "public",
     "sdkVersion": "22.0.0",
-    "version": "16.6.9",
+    "version": "16.8",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
     "icon": "./assets/images/AppleIcon22.png",
@@ -32,7 +32,8 @@
       "bundleIdentifier": "com.specknz.cleanme"
     },
     "android": {
-      "package": "com.cleanme.cleanme"
+      "package": "com.cleanme.cleanme",
+      "versionCode": 16.8
     }
   }
 }

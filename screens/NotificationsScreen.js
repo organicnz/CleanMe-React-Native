@@ -44,7 +44,7 @@ export default class NotificationsScreen extends React.Component {
                 roundAvatar
                 avatar={{ uri: 'https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg' }}
                 key={i}
-                title={this.state.notificationsAvailable[keys].birthday}
+                title={this.state.notificationsAvailable[keys].eventmanager}
               />
             ))
           }
